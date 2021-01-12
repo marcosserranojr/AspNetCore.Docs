@@ -1,4 +1,4 @@
-# ASP.NET Core Docs
+# ASP.NET Core Documents
 
 This repository contains the conceptual ASP.NET Core documentation hosted at [docs.microsoft.com/aspnet/core](https://docs.microsoft.com/aspnet/core). See the [Contributing Guide](CONTRIBUTING.md) and the [issues list](https://github.com/aspnet/Docs/issues) if you would like to help out.
 
